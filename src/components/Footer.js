@@ -13,9 +13,9 @@ const Footer = () => {
                      <Link to="/"><img width="210" src="images/Logo.jpg" alt="#" /></Link>
                   </div>
                   <div className="information_f">
-                     <p><strong>ADDRESS:</strong> Haldwani, Nainital Uttarakhand, INDIA</p>
-                     <p><strong>TELEPHONE:</strong> +91 987 654 3210</p>
-                     <p><strong>EMAIL:</strong> rohitbahuguna.work@gmail.com</p>
+                     <p><strong>ADDRESS:</strong> Ludhiana, INDIA</p>
+                     <p><strong>TELEPHONE:</strong> +91 7973342798</p>
+                     <p><strong>EMAIL:</strong> bharatgoyal1741@gmail.com</p>
                   </div>
                </div>
             </div>

@@ -81,7 +81,7 @@ const Home = () => {
                      
                       <div className="btn-box">
                         <Link to="" className="btn1">
-                          Shop Now
+                          Order Now
                         </Link>
                       </div>
                     </div>

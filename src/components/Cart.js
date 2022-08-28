@@ -86,7 +86,7 @@ let price = 0
                   </div>
                    <div className="options d-flex flex-row justify-content-around">
                         <Link to="/productlist"><button   type="button" className="btn btn-outline-danger">
-                           Shop More
+                          Order More
                         </button></Link>
                         <button   type="button" onClick={orderNow} className="btn btn-outline-danger">
                            Order Now

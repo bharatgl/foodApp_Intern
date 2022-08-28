@@ -103,7 +103,7 @@ const Login = () => {
                     <input className="rounded-pill" type="submit" value="Sign In" onClick={(e) => { loginFn(e) }} />
                     <br/>
                     <Link to="/signup">
-                      <input className="rounded-pill" type="submit" value="New Here Create Account"  />
+                      <input className="rounded-pill" type="submit" value=" Create New Account"  />
                   </Link>
                         </fieldset>
                   
